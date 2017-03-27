@@ -5,3 +5,5 @@
 <p>If you use linux environment you have to give permission to pass.txt file to write .You can go the "cd /var/www/html"  and hit enter.next "chmod 777 pass.txt" hit enter.Dont use "" symbol in command line </p>
 <p>Then you can test this at there.</p>
 
+<p>If you want you an refer my blog using this <a href=http://comptersecurity.blogspot.com/2017/03/how-to-steal-sensitive-details-using.html>link</a></p>
+
